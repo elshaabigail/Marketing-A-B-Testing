@@ -1,2 +1,2 @@
 # Marketing-A-B-Testing
- The project aims to explore whether advertisements have an impact on customer buying activity to optimize their effectiveness in encouraging purchases.
+ The project's objective is to investigate whether advertisements have a discernible impact on customer buying activity. Through data analysis, A/B testing, and customer surveys, the project aims to understand the influence of ads on customers' purchasing behavior. The findings will help determine the effectiveness of ads in encouraging buying activity and guide the development of strategies to optimize their impact on customers' purchasing decisions.
